@@ -330,5 +330,5 @@ MoonTV 支持标准的苹果 CMS V10 API 格式。
 ---
 
 ## Star 趋势
-
+123
 [![Stargazers over time](https://starchart.cc/LunaTechLab/MoonTV.svg?variant=adaptive)](https://starchart.cc/LunaTechLab/MoonTV)
